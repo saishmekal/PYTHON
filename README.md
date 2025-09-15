@@ -104,11 +104,13 @@ python Arithmetic\ operators.py
 
 ---
 
-📚 Learning Goals
-This repo is designed to help with:
+📚 Learning Goals:
 
-Strengthening Python fundamentals
 
-Practicing file handling and error handling
+  - This repo is designed to help with:
 
-Building small projects to gain confidence
+  - Strengthening Python fundamentals
+
+  - Practicing file handling and error handling
+
+  - Building small projects to gain confidence
