@@ -70,8 +70,7 @@ This repository contains Python practice files covering various concepts, exerci
   - Password Checker 
   - Rock, Paper, Scissors
   - Tkinter_Password_Generator
-
-
+  - Milestone Monitor
 
 ---
 
